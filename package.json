@@ -1,0 +1,18 @@
+{
+  "name": "ci-codes-enterprise",
+  "version": "3.0.0",
+  "description": "CI Codes v3.0 — Zero-Latency Hybrid Cloud IDE founded by Chiragpala Naik MD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "Chiragpala Naik MD",
+  "license": "SEE LICENSE IN LICENSE_COPYRIGHT.txt",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
